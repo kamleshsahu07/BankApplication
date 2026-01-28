@@ -1,1 +1,1 @@
-package com.smartbank.excepion;
+package com.smartbank.exception;
