@@ -1,4 +1,4 @@
-package com.smartbank.excepion;
+package com.smartbank.exception;
 
 public class InsufficientBalanceException extends Exception {
 	
